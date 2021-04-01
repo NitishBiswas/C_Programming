@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600345206 source:f:\nitish\c\r-fibonacci\main.c
+	<stdio.h>
+	<conio.h>
+

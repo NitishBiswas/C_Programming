@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574965713 source:d:\c\palindrome string\main.c
+	<stdio.h>
+	<conio.h>
+

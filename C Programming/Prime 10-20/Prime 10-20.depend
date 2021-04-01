@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592843071 source:d:\c\prime 10-20\main.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

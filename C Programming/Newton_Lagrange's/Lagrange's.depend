@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605512503 source:h:\c\newton_lagrange's\main.c
+	<stdio.h>
+	<conio.h>
+

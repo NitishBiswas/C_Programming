@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605023432 source:h:\c\trapezodial\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

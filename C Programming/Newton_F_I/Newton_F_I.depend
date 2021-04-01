@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605511643 source:h:\c\newton_f_i\main.c
+	<stdio.h>
+	<conio.h>
+

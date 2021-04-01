@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568968302 source:d:\c\prime\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601886273 source:f:\nitish\c\newton_rapson_method\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<stdlib.h>
+

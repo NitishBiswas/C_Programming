@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1548059008 source:c:\users\hp\documents\for loop pyramid\main.cpp
+	<stdio.h>
+
+1548125996 source:c:\users\hp\documents\for loop factorial\main.cpp
+	<stdio.h>
+	<conio.h>
+

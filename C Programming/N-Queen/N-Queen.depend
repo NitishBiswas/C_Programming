@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:f:\nitish\c\n-queen\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1600379068 source:g:\nitish\c\n-queen\main.c
+	<stdio.h>
+	<math.h>
+

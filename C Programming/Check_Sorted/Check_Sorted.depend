@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591114710 source:d:\c\check_sorted\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

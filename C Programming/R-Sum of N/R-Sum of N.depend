@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600342893 source:f:\nitish\c\r-sum of n\main.c
+	<stdio.h>
+	<stdlib.h>
+

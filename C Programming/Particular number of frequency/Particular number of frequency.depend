@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578422525 source:d:\c\particular number of frequency\main.c
+	<stdio.h>
+	<stdlib.h>
+

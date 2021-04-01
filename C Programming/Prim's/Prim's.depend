@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604378394 source:h:\c\prim's\main.c
+	<stdio.h>
+	<conio.h>
+
