@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632290566 source:g:\10th semester\cse-401,402\cse-402\hw\check_variable\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

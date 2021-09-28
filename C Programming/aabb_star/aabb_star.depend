@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632856990 source:g:\10th semester\cse-401,402\cse-402\hw\aabb_star\main.c
+	<stdio.h>
+	<string.h>
+
